@@ -1,0 +1,22 @@
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+  }
+	
+h1, h2, ul, p {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	padding-bottom: .25em;
+	color: blue;
+}
+h2 {
+	font-size: 120%;
+	padding: .5em 0 .25em;
+}
+li {
+	padding-right: 10px;
+	display: inline;
+}
